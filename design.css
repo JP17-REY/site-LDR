@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0%;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(63, 62, 62);
+}
+
+
+/* Estilos para a imagem */
+img {
+    max-width: 300px; /* Define a largura máxima da imagem */
+    height: auto /* Mantém a proporção da imagem */
+}
+
+/* Estilos para a caixa dos álbuns */
+.caixa {
+    background-color: #aca3a3;
+    border: 5px solid #121111;
+    padding: 40px;
+    margin: 40px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    p {
+        text-align: left;
+    }
+}
+
+/* Estilos para a caixa dos álbuns */
+.caixa2 {
+    background-color: rgb(247, 154, 154);
+    padding: 40px;
+    margin: 40px;
+    border: 5px solid #f10c0c;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    p {
+        text-align: left;
+    }
+}
+
+/* Estilos para a caixa dos álbuns */
+.caixa3  {
+    background-color: rgb(151, 216, 242);
+    padding: 40px;
+    margin: 40px;
+    border: 5px solid #158fdb;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+      p {
+        text-align: left;
+    }
+}
+
+.caixa, .caixa2, .caixa3 {
+    border-radius: 30px;
+    padding: 20px;
+}
+
+footer{
+    color: #121111;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
